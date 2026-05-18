@@ -40,8 +40,9 @@ streamlit run app.py
 
 ## **Структура проекта**
 real-estate-valuation/
+
 ├── итоговое задание.ipynb (Colab)
 ├── app.py
-├── ensemble.pkl 
+├── ensemble.pkl
 ├── requirements.txt
 └── README.md
