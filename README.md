@@ -31,17 +31,14 @@ Python, pandas, numpy, scikit-learn, catboost, PyTorch, SHAP, MLflow, seaborn, m
 ## Установка и запуск
 
 1. Клонировать репозиторий
-```bash
 git clone https://github.com/KateRastorgueva/real-estate-valuation.git
 cd real-estate-valuation
-Установить зависимости
-
-```bash
+2. Установить зависимости
 pip install -r requirements.txt
-Запустить Streamlit-приложение
-
-```bash
+3. Запустить Streamlit-приложение
 streamlit run app.py
+
+## **Структура проекта**
 real-estate-valuation/
 ├── итоговое задание.ipynb (Colab)
 ├── app.py
