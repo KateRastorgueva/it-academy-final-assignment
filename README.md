@@ -26,7 +26,7 @@
 Самое сильное влияние на цену оказывает расстояние до метро (корреляция -0.714). Обнаружена нелинейная зависимость для возраста дома (разница Пирсон/Phi-k = 0.27). Дома 1990-х годов стоят дешевле из-за экономического кризиса
 
 ## Технологии
-Python, pandas, numpy, scikit-learn, catboost, PyTorch, SHAP, MLflow, seaborn, matplotlib, phik, Streamlit
+Python, pandas, numpy, scikit-learn, catboost, PyTorch, SHAP, MLflow, seaborn, matplotlib, phik, Streamlit, plotly, scipy, joblib, requests, warnings, math, os, csv, datetime
 
 ## Установка и запуск
 
