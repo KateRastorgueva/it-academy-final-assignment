@@ -42,7 +42,11 @@ streamlit run app.py
 real-estate-valuation/
 
 ├── итоговое задание.ipynb (Colab)
+
 ├── app.py
+
 ├── ensemble.pkl
+
 ├── requirements.txt
+
 └── README.md
