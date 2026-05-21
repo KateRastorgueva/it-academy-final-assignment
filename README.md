@@ -132,4 +132,5 @@ real-estate-valuation/
 ## Ссылки
 
  [Colab ноутбук](https://colab.research.google.com/drive/1KYkxQccefZv1SSsVsw8jMWxVn7e6nprg)
+ 
  [Датасет UCI](https://archive.ics.uci.edu/dataset/477/real+estate+valuation+data+set)
