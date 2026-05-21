@@ -103,7 +103,7 @@ real-estate-valuation/
 │
 ├── итоговое задание.ipynb
 ├── app.py
-├── ensemble_fixed.pkl
+├── ensemble.pkl
 ├── requirements.txt
 ├── predictions_log.csv
 └── README.md
