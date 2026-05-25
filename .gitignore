@@ -24,6 +24,11 @@ share/python-wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+predictions_log.csv
+*.csv
+X_test.csv
+y_test.csv
+*.ipynb_checkpoints/
 MANIFEST
 
 # PyInstaller
